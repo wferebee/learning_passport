@@ -1,0 +1,20 @@
+{
+  "name": "learning_passport",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express-validator": "^6.9.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongojs": "^3.1.0",
+    "mongoose": "^5.11.17",
+    "path": "^0.12.7"
+  }
+}
